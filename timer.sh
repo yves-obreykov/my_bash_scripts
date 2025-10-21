@@ -86,3 +86,4 @@ done
 
 # show cursor
 tput cnorm
+exit
